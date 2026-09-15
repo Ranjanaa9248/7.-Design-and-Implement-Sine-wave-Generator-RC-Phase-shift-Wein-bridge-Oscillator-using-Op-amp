@@ -64,13 +64,21 @@ Rf = 15K *2=30KΩ
 
 
   **CIRCUIT DIAGRAM**
+<img width="437" height="237" alt="image" src="https://github.com/user-attachments/assets/4a2af3f2-3876-4982-989f-7ea8f06c57b6" />
 
 
   **MODEL GRAPH:**
+<img width="371" height="193" alt="image" src="https://github.com/user-attachments/assets/00b69e60-2e6d-48a6-84b4-4fcb67143ba1" />
 
 
   **TABULATION:**
  
+<img width="1600" height="605" alt="WhatsApp Image 2026-09-15 at 10 34 19 AM" src="https://github.com/user-attachments/assets/5084bb45-f7cc-4c78-8183-ecca59e7fbd7" />
+<img width="1600" height="716" alt="WhatsApp Image 2026-09-15 at 10 34 37 AM" src="https://github.com/user-attachments/assets/bdb91de4-cdec-4a3e-905a-ebf16d5b5e18" />
+
+  **GRAPH:**
+
+  <img width="1163" height="1600" alt="WhatsApp Image 2026-09-15 at 10 35 13 AM" src="https://github.com/user-attachments/assets/a18b6f76-6a4a-4723-af96-e071df04c97f" />
 
 
 
